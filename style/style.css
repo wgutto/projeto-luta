@@ -49,7 +49,7 @@ main .bar {
     background-color: red;
 }
 
-main #log {
+main ul {
     width: 100vw;
     margin-top: 20px;
     height: 200px;
